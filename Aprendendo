@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aprendendo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo à Minha Página</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Início</a></li>
+                <li><a href="#about">Sobre</a></li>
+                <li><a href="#contact">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Início</h2>
+            <p>Esta é uma página usando HTML e CSS3. Just do it!</p>
+        </section>
+        
+        <section id="about">
+            <h2>Sobre</h2>
+            <p>Ainda definindo propósito desta página.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Minha Página. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
